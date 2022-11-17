@@ -6,7 +6,7 @@
 [![supports iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)]
 [![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)]
 
-![Movie App](./assets/demo.png)
+![Movie App](./assets/demo.jpg)
 
 ## Architecture
 
